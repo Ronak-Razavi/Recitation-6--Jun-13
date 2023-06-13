@@ -1,0 +1,33 @@
+Answer the following questions and, most importantly, explain why this
+is the answer. If the action is not supported or is not possible, say so.
+Team Array
+What is the big O of accessing any given item (lookup)?
+What is the big O of deleting something from an array? Meaning that
+we remove that entire item and the array exists like that item was
+never in the array.
+What is the big O of inserting an element in the middle on an array?
+That is, inserting an element that wasn’t previously there, between two
+existing elements.
+Team Linked List
+What is the big O of accessing any given item in a linked list?
+What is the big O of inserting an item: at the head, or elsewhere
+What is the big O of deleting an item: at the head, or elsewhere
+Team Double linked list:
+What is the big O of accessing any given item in a doubly linked list?
+What is the big O of inserting an item: at the head, at the tail, or
+elsewhere?
+What is the big O of deleting an item: at the head, at the tail, or
+elsewhere?
+Team Stack:
+What is the big O of accessing any given item in a stack?
+What is the big O of deleting something from the middle of the stack?
+What is the big O of inserting an item into the middle of the stack?
+What’s the big O of Push?
+What’s the big O of Pop?
+What’s the big O of Top?
+Team Queue:
+What is the big O of accessing any given item in a queue?
+What is the big O of deleting something from the middle of the queue?
+What is the big O of inserting an item into the middle of the queue?
+What is the big O of en-queue?
+What is the big O of de-queue?
